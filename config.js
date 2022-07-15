@@ -12,7 +12,7 @@ global.prems = ['6282136031499'] //ganti pakai nomormu biar bot berfungsi
 //=============『 Info Owner 』============== //
 global.nameowner = 'TIPENG REALL'
 global.numberowner = '6282136031499' //ganti pakai nomor mu
-global.instagram = 'https://www.instagram.com/' //ganti pakai Instagram mu
+global.instagram = 'https://www.instagram.com/tipeng.co.id' //ganti pakai Instagram mu
 global.github = 'https://github.com/tipength' //ganti aja pakai githubmu
 global.tt = '"tipeng_asli"' //ganti aja pakai tiktok mu
 global.sc = 'https://youtube.com/channel/UCwqEulawmsGoN0QUkitIfbA' //jngn ganti hargai creator
@@ -25,10 +25,10 @@ global.gopay = '082136031499' //ganti pakai nomor Gopay mu
 
 //=============『 Info Bot 』=================//
 global.namebot = 'TipengBotz' //ganti jadiin nama bot mu
-global.gc = 'https://chat.whatsapp.com/BiJs5Xl4oJA1Ama5BahUwd' //ganti pakai grup mu
+global.gc = 'https://chat.whatsapp.com/DSehSEYnN1C219M3QdueNo' //ganti pakai grup mu
 global.web = 'https://youtube.com/channel/UCwqEulawmsGoN0QUkitIfbA' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = '""' //ganti pakai Instagram mu
-global.saweria = '"_"' //bebas ganti aja pakai apa
+global.webm = '"https://www.instagram.com/tipeng.co.id"' //ganti pakai Instagram mu
+global.saweria = '"https://c.top4top.io/p_2381i1xee1.png"' //bebas ganti aja pakai apa
 global.nomer = 'https://wa.me/6282136031499' //ganti jadi nomor mu
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
 
