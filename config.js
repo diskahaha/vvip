@@ -5,31 +5,31 @@
 // RECODE BY ZIFABOTZ
 
 //=============『 Utama 』================== //
-global.owner = ['6282136031499'] //ganti pakai nomormu biar bot berfungsi
-global.mods = ['6282136031499'] //ganti pakai nomormu biar bot berfungsi
-global.prems = ['6282136031499'] //ganti pakai nomormu biar bot berfungsi
+global.owner = ['62821220876725'] //ganti pakai nomormu biar bot berfungsi
+global.mods = ['62821220876725'] //ganti pakai nomormu biar bot berfungsi
+global.prems = ['62821220876725'] //ganti pakai nomormu biar bot berfungsi
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'TIPENG REALL'
-global.numberowner = '6282136031499' //ganti pakai nomor mu
-global.instagram = 'https://www.instagram.com/tipeng.co.id' //ganti pakai Instagram mu
-global.github = 'https://github.com/tipength' //ganti aja pakai githubmu
-global.tt = '"tipeng_asli"' //ganti aja pakai tiktok mu
-global.sc = 'https://youtube.com/channel/UCwqEulawmsGoN0QUkitIfbA' //jngn ganti hargai creator
-global.ss = 'https://youtube.com/channel/UCwqEulawmsGoN0QUkitIfbA' //jngn ganti hargai creator
-global.sss = 'https://youtube.com/channel/UCwqEulawmsGoN0QUkitIfbA' //jngn ganti hargai creator
+global.nameowner = '𝕭𝖔𝖙 • Andii あ'
+global.numberowner = '62821220876725' //ganti pakai nomor mu
+global.instagram = 'https://www.instagram.com/@cilllzlpaa.' //ganti pakai Instagram mu
+global.github = 'https://github.com/F' //ganti aja pakai githubmu
+global.tt = '"F"' //ganti aja pakai tiktok mu
+global.sc = 'https://www.instagram.com/@cilllzlpaa.' //jngn ganti hargai creator
+global.ss = 'https://www.instagram.com/@cilllzlpaa.' //jngn ganti hargai creator
+global.sss = 'https://www.instagram.com/@cilllzlpaa.' //jngn ganti hargai creator
 global.yt = 'https://youtube.com/channel/UCeUvY_fIVSAaQ1n5SAylI-A'
-global.dana = '082136031499' //ganti pakai nomor dana mu
-global.pulsa = '082136031499' //ganti pakai nomor pulsa mu
-global.gopay = '082136031499' //ganti pakai nomor Gopay mu
+global.dana = '62821220876725' //ganti pakai nomor dana mu
+global.pulsa = '62821220876725' //ganti pakai nomor pulsa mu
+global.gopay = '62821220876725' //ganti pakai nomor Gopay mu
 
 //=============『 Info Bot 』=================//
-global.namebot = 'TipengBotz' //ganti jadiin nama bot mu
-global.gc = 'https://chat.whatsapp.com/DSehSEYnN1C219M3QdueNo' //ganti pakai grup mu
-global.web = 'https://youtube.com/channel/UCwqEulawmsGoN0QUkitIfbA' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.namebot = '𝕭𝖔𝖙 • Andii あ' //ganti jadiin nama bot mu
+global.gc = 'https://chat.whatsapp.com/IT80eOwgTLh87ADA8E0n4s' //ganti pakai grup mu
+global.web = 'https://www.hentai.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = '"https://www.instagram.com/tipeng.co.id"' //ganti pakai Instagram mu
-global.saweria = '"https://c.top4top.io/p_2381i1xee1.png"' //bebas ganti aja pakai apa
-global.nomer = 'https://wa.me/6282136031499' //ganti jadi nomor mu
+global.saweria = '"https://www.hentai.com"' //bebas ganti aja pakai apa
+global.nomer = 'https://wa.me/62821220876725' //ganti jadi nomor mu
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -44,9 +44,9 @@ global.fotonya8 = 'https://telegra.ph/file/14ec0e0c93af4812d1fd7.jpg' //foto ses
 global.donasi = 'https://telegra.ph/file/c171460c1e60d22ea379e.jpg' //ganti pakai poto payment atau apa
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'By Tipeng'
+global.wm = 'By 𝕭𝖔𝖙 • Andii あ'
 global.watermark = wm
-global.wm2 = 'ᯤ creator by tipeng'
+global.wm2 = 'ᯤ creator by 𝕭𝖔𝖙 • Andii あ'
 global.wm3 = 'ᯤ tipeng Offcial'
 global.htki = '––––––『' 
 global.htka = '』––––––'
@@ -57,8 +57,8 @@ global.eror = '_*🚨 Server Bot Sedang Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'TipengBotz-Ofc'
-global.author = '@Tipeng Official'
+global.packname = '𝕭𝖔𝖙 • Andii あ'
+global.author = '@𝕭𝖔𝖙 • Andii あ'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
