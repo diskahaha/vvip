@@ -2,11 +2,11 @@ const { default: makeWASocket, BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessa
 let fs = require('fs')
 let handler = async (m) => {
 let krizyn = `
-*Hallo user 𝕭𝖔𝖙,* 
+*Hallo user 👋,* 
 
-*Satu Dua Tutup Botol,
-Yang Baca Cem Kmtl 🤧...
-Bye : 𝕭𝖔𝖙 • Andii あ*
+*Saya adalah Bot WhatsApp Multi Device yang di buat oleh Creator kami.*
+Bot ini bisa membantu kamu atau mempermudah kamu membuat sesuatu atau pun mendownload sesuatu seperti:
+*Vidio tiktok , Vidio yt , membuat stiker DLL.*
 	`.trim()
   let message = await prepareWAMessageMedia({ image: await (await require('node-fetch')(fotonya5)).buffer()}, { upload: conn.waUploadToServer }) 
     const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fromObject({
