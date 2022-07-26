@@ -42,7 +42,7 @@ const defaultMenu = {
   header: '╭─❑ 〔 %category 〕 ❑─\n┃',
   body: '┃❑ %cmd %islimit %isPremium',
   footer: '┃\n╰────────❑\n', 
-  footerText: 'Powered by Rozi',
+  footerText: 'Powered by 𝕭𝖔𝖙',
   after: `
 𝕭𝖔𝖙 • Andii あ
 `,
@@ -434,7 +434,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
                 "title": "⟣─────────❲ 𝗟 𝗜 𝗦 𝗧 ❳──────────⟢"
                 }, {
               	"rows": [{
-                  "title": "⋮☰|🐻|┅MENU———๑〘 owner 〙",
+                  "title": "⋮☰|🐻|┅MENU———๑〘 𝕭𝖔𝖙 • Andii あ 〙",
                   "description": "Menampilkan Menu Owner",
                   "rowId": `${_p}? owner`
                   }],
