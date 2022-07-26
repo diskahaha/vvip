@@ -17,35 +17,35 @@ Bye : 𝕭𝖔𝖙 • Andii あ*
            hydratedFooterText: '[❗] Silahkan pilih Command Dibawah ini',
            hydratedButtons: [{
              urlButton: {
-               displayText: '𝕭𝖔𝖙 • Andii あ',
+               displayText: '🔮GroupBot🔮',
                url: gc
              }
 
            },
                 {
                urlButton: {
-               displayText: '𝕭𝖔𝖙 • Andii あ',
+               displayText: '🐻Instagram creator🐻',
                url: web
              }
 
            },
                {
              quickReplyButton: {
-               displayText: '𝕭𝖔𝖙 • Andii あ',
+               displayText: 'PATUHI RULES BOT',
                id: '.snk',
              }
              
            },
                {
              quickReplyButton: {
-               displayText: '𝕭𝖔𝖙 • Andii あ',
+               displayText: 'SOURCE CODE',
                id: '.sc',
              }
              
              },
                {
              quickReplyButton: {
-               displayText: 'Menu あ',
+               displayText: 'COMMAND',
                id: '.zifa',
              }
 
