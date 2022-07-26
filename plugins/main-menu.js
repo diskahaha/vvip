@@ -44,20 +44,7 @@ const defaultMenu = {
   footer: '┃\n╰────────❑\n', 
   footerText: 'Powered by Rozi',
   after: `
-╭──〔  THANKS TO  〕─⬣
-⫹⫺ Allah SWT
-⫹⫺ Orang Tua
-⫹⫺ Kesabaran
-⫹⫺ Penyemangat
-⫹⫺ Nurutomo
-⫹⫺ Ilmanhdyt
-⫹⫺ Elyas
-⫹⫺ Hyzer
-⫹⫺ KrizynOfc
-⫹⫺ RielgansOfc
-⫹⫺ Zifabotz_offc1
-⫹⫺ DaniBotz-Ofc
-╰─────────────⬣
+𝕭𝖔𝖙 • Andii あ
 `,
 }
 
@@ -525,35 +512,35 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
             hydratedFooterText: wm2, 
             hydratedButtons: [{
             urlButton: {
-               displayText: '🔮INSTAGRAM🔮',
+               displayText: '🔮𝕭𝖔𝖙 • Andii あ🔮',
                url: webm
              }
 
            },
              {
              urlButton: {
-               displayText: '🎮GROUP BOT🎮', 
+               displayText: '𝕭𝖔𝖙 • Andii あ', 
                url: gc
              }
 
            },
                {
              quickReplyButton: {
-               displayText: '🧸 Owner',
+               displayText: '𝕭𝖔𝖙 • Andii あ',
                id: '.owner',
              }
 
            },
                {
              quickReplyButton: {
-        displayText: '💳 Sewa',
+        displayText: '𝕭𝖔𝖙 • Andii あ',
                id: '.sewazifa',
              }
 
            },
            {
              quickReplyButton: {
-               displayText: 'Group Offcial',
+               displayText: '𝕭𝖔𝖙 • Andii あ',
                id: '.gcbot',
              }
            }]
