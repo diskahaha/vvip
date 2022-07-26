@@ -27,21 +27,21 @@ wa.me/${numberowner} (Owner)
            hydratedFooterText: '📮 Silahkan pilih Command Dibawah ini',
            hydratedButtons: [{
              urlButton: {
-               displayText: 'Saweria🐈',
+               displayText: '𝕭𝖔𝖙 • Andii あ',
                url: saweria
              }
 
            },
                 {
                urlButton: {
-               displayText: '😼Whatsapp creator😼',
+               displayText: '𝕭𝖔𝖙 • Andii あ',
                url: nomer
              }
 
            },
                {
              quickReplyButton: {
-               displayText: 'sewa',
+               displayText: '𝕭𝖔𝖙 • Andii あ',
                id: '.sewazifa',
              }
              
@@ -55,7 +55,7 @@ wa.me/${numberowner} (Owner)
              },
                {
              quickReplyButton: {
-               displayText: 'Runtime',
+               displayText: '𝕭𝖔𝖙 • Andii あ',
                id: '.runtime',
              }
 
