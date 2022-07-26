@@ -2,11 +2,11 @@ const { default: makeWASocket, BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessa
 let fs = require('fs')
 let handler = async (m) => {
 let krizyn = `
-*Hallo user DaniBotz-Ofc👋,* 
+*Hallo user 𝕭𝖔𝖙,* 
 
-*Saya adalah Bot WhatsApp Multi Device yang di buat oleh Creator kami.*
-Bot ini bisa membantu kamu atau mempermudah kamu membuat sesuatu atau pun mendownload sesuatu seperti:
-*Vidio tiktok , Vidio yt , membuat stiker DLL.*
+*Satu Dua Tutup Botol,
+Yang Baca Cem Kmtl 🤧...
+Bye : 𝕭𝖔𝖙 • Andii あ*
 	`.trim()
   let message = await prepareWAMessageMedia({ image: await (await require('node-fetch')(fotonya5)).buffer()}, { upload: conn.waUploadToServer }) 
     const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fromObject({
@@ -17,35 +17,35 @@ Bot ini bisa membantu kamu atau mempermudah kamu membuat sesuatu atau pun mendow
            hydratedFooterText: '[❗] Silahkan pilih Command Dibawah ini',
            hydratedButtons: [{
              urlButton: {
-               displayText: '🔮GroupBot🔮',
+               displayText: '𝕭𝖔𝖙 • Andii あ',
                url: gc
              }
 
            },
                 {
                urlButton: {
-               displayText: '🐻Instagram creator🐻',
+               displayText: '𝕭𝖔𝖙 • Andii あ',
                url: web
              }
 
            },
                {
              quickReplyButton: {
-               displayText: 'PATUHI RULES BOT',
+               displayText: '𝕭𝖔𝖙 • Andii あ',
                id: '.snk',
              }
              
            },
                {
              quickReplyButton: {
-               displayText: 'SOURCE CODE',
+               displayText: '𝕭𝖔𝖙 • Andii あ',
                id: '.sc',
              }
              
              },
                {
              quickReplyButton: {
-               displayText: 'COMMAND',
+               displayText: 'Menu あ',
                id: '.zifa',
              }
 
